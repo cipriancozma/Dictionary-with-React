@@ -1,0 +1,24 @@
+.meaning {
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    scrollbar-width: thin;
+    height: 50vh;
+    border: 5px solid rgb(240, 236, 236);
+    border-radius: 5px;
+    padding: 5px 10px;
+    overflow-x: hidden;
+    margin-top: 20px;
+}
+
+.subtitle {
+    font-size: 1.2em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.mean {
+    background-color:grey;
+    color: black;
+    display: flex;
+    flex-direction: column;
+}
